@@ -1,0 +1,5 @@
+name = "docs"
+compatibility_date = "2025-07-08"
+
+[assets]
+directory = "./dist"
