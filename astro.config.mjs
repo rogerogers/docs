@@ -6,7 +6,7 @@ import devtoolsJson from "vite-plugin-devtools-json";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://docs.rogerogers.com",
+  site: "https://rogerogers.com",
   vite: {
     plugins: [devtoolsJson()],
   },
